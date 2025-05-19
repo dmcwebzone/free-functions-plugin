@@ -1,6 +1,6 @@
-# free-functions-plugin
-Free Functions Plugin
-This is an empty plugin. It is useful for inserting custom functions.
+# Free Functions Plugin
+
+This is an empty plugin (WordPress). It is useful for inserting custom functions.
 
 It will not be updated, so your custom functions will not be removed (it doesn’t have an update function).
 
